@@ -13,7 +13,7 @@ In this project, I will be analyzing international debt data collected by The Wo
   
 # Finding the number of distinct countries
 The number of distinct countries were counted to calculate the number of countries that borroewed money from the World Bank. 
-![](Distinct_Debt_Indicator.jpg)
+![](Total_Distinct_Countries.jpg)
 
 # Finding out the distinct debt indicators
 The unique column in this table is the Indicator Code. The number of distinct values in tbis column was used in finding out the distinct debt indicators. 
