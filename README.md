@@ -30,11 +30,11 @@ The query result shows China is the country with the highest debt. With a total 
 
 # Average amount of debt across indicators
 The average amount of debt available varies between indicators. Principal repayments on external debt, long-term (AMT, current US$) with 5904868401.499193 million dollars and indicator with the lowest debt rate is "PPG, bonds (AMT, current US$)" with 1082623947.65362 dollars. 
-
+![](Avrage_Debt_Per_Indicator.jpg)
 
 # Highest Principal repayment 
 The query returned China as the country with the highest principal repayment and the indicator debt name is  Principal repayments on external debt, long-term (AMT, current US$). Which is the same for the average of the debt across indicators. 
-
+![](Highest_Principal_Repayment.jpg)
 
    
    
