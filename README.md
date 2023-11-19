@@ -21,16 +21,16 @@ The query results shows that there are 24 distinct debt indicator code. This mea
 ![](Distinct_Debt_Indicator_Code.jpg)
 
 # Totaling the amount of debt owed by the countries
-The query result returned showed that the world countries are owing 3,079,734.49. Which means the total amount owed by the countries is three million and seventy-nine thousand seven hundred and thirty four dollars.
+The query result returned showed that the world countries are owing 3,079,734.49. Which means the total amount owed by the countries is three million seventy-nine thousand seven hundred and thirty four dollars and foutry-nine cents.
 ![](Total_Debt.jpg)
 
 # Country with the highest debt
-The query result shows China is the country with the highest debt. With a total of 285793494734.2 billion dollars. 
-![](Country_With_The_highest_Debt)
+The query result shows China is the country with the highest debt. With a total of 285793494734.2 billion dollars. Two hundred eighty-five billion, seven hundred ninety-three million, four hundred ninety-four thousand, seven hundred thirty-four dollars and twenty cents. 
+![](Country_With_The_highest_Debt.jpg)
 
 # Average amount of debt across indicators
-The average amount of debt available varies between indicators. Principal repayments on external debt, long-term (AMT, current US$) with 5904868401.499193 million dollars and indicator with the lowest debt rate is "PPG, bonds (AMT, current US$)" with 1082623947.65362 dollars. 
-![](Avrage_Debt_Per_Indicator.jpg)
+The average amount of debt available varies between indicators. Principal repayments on external debt, long-term (AMT, current US$) with 5904868401.499193 million dollars and indicator with the lowest debt rate is "PPG, bonds (AMT, current US$)" with 1082623947.65362 dollars. Five billion, nine hundred four million, eight hundred sixty-eight thousand, four hundred one
+![](Average_Debt_Per_Indicator.jpg)
 
 # Highest Principal repayment 
 The query returned China as the country with the highest principal repayment and the indicator debt name is  Principal repayments on external debt, long-term (AMT, current US$). Which is the same for the average of the debt across indicators. 
