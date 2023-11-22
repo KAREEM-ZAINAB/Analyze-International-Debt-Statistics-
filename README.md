@@ -1,15 +1,13 @@
 # Analyze-International-Debt-Statistics-
 ![](Dollar.jpg)
 
-#Introduction
-
+# Introduction
 It's not only humans who take on debt to manage their necessities; countries may also incur debt to manage their economies. For instance, infrastructure spending is a significant investment necessary for a country's citizens to lead comfortable lives. The World Bank is an organization that extends loans to countries.
 
 In this project, I will analyze international debt data from The World Bank. The dataset includes information about the amount of debt (in USD) owed by developing countries across various categories.
 
 # Project Objective
 The goal of this project is to address questions such as:
-
 1. What is the total amount of debt owed by the countries listed in the dataset?
 2. Which country possesses the highest amount of debt, and what is the corresponding figure?
 3. What is the average debt amount owed by countries, considering various debt indicators?
@@ -31,7 +29,7 @@ The query result indicates that China has the highest debt, amounting to $285,79
 ![](Country_With_The_highest_Debt.jpg)
 
 # Average amount of debt across indicators
-The query result for the average debt per indicator reveals that "Principal repayments on external debt, long-term (AMT, current US$)" has the highest average value, amounting to $5,904,868,401.50. Conversely, "PPG, bonds (AMT, current US$)" has the lowest average value for an indicator, standing at $1,082,623,947.65.
+The query result for the average debt per indicator reveals that Principal repayments on external debt, long-term (AMT, current US$) have the highest average value, amounting to $5,904,868,401.50. Conversely, " PPG, bonds (AMT, current US$) has the lowest average value for an indicator, standing at $1,082,623,947.65.
 ![](Average_Debt_Per_Indicator.jpg)
 
 # Highest Principal repayment  
