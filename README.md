@@ -2,26 +2,28 @@
 ![](Dollar.jpg)
 
 #Introduction
-It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
-In this project, I will analyse international debt data from The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. 
 
-# The objective of this project is to find the answers to questions like:
+It's not only humans who take on debt to manage their necessities; countries may also incur debt to manage their economies. For instance, infrastructure spending is a significant investment necessary for a country's citizens to lead comfortable lives. The World Bank is an organization that extends loans to countries.
+
+In this project, I will analyze international debt data from The World Bank. The dataset includes information about the amount of debt (in USD) owed by developing countries across various categories.
+
+# Project Objective
+The goal of this project is to address questions such as:
 
 1. What is the total amount of debt owed by the countries listed in the dataset?
-2. Which country owns the maximum amount of debt and what does that amount look like?
-3. What is the average amount of debt owed by countries across different debt indicators?
-  
+2. Which country possesses the highest amount of debt, and what is the corresponding figure?
+3. What is the average debt amount owed by countries, considering various debt indicators?
+ 
 # Finding the number of distinct countries
-The number of distinct countries was counted to calculate the number of countries that borrowed money from the World Bank. 
+The count of distinct countries was used to determine the total number of nations that borrowed money from the World Bank.
 ![](Total_Distinct_Countries.jpg)
 
 # Finding out the distinct debt indicators
-The unique column in this table is the Indicator Code. The number of distinct values in this column was used in finding out the distinct debt indicators. 
-The query results show that there are 24 distinct debt indicator codes. This means there are only 24 types of debt being issued by the World Bank to different countries. 
+The unique column in this table is the Indicator Code. The count of distinct values in this column was utilized to identify the distinct debt indicators. The query results reveal that there are 24 unique debt indicator codes. Consequently, there are only 24 types of debt being issued by the World Bank to various countries.
 ![](Distinct_Debt_Indicator_Code.jpg)
 
-# Totaling the amount of debt owed by the countries
-The query result returned showed that the world countries owing 3,079,734.49. This means the total amount owed by the countries is three million seventy-nine thousand seven hundred and thirty-four dollars and forty-nine cents.
+# Totaling the average amount of debt owed by the countries
+The query result indicates that the total average debt owed by the world countries is $3,079,734.49. This translates to three million seventy-nine thousand seven hundred and thirty-four dollars and forty-nine cents.
 ![](Total_Debt.jpg)
 
 # Country with the highest debt
@@ -29,11 +31,11 @@ The query result shows China is the country with the highest debt. With a total 
 ![](Country_With_The_highest_Debt.jpg)
 
 # Average amount of debt across indicators
-The average amount of debt available varies between indicators. Principal repayments on external debt, long-term (AMT, current US$) with 5904868401.499193 million dollars and indicator with the lowest debt rate is "PPG, bonds (AMT, current US$)" with 1082623947.65362 dollars. Five billion, nine hundred four million, eight hundred sixty-eight thousand, four hundred one
+The query result indicates that China has the highest debt, amounting to $285,793,494,734.20. In words, this is two hundred eighty-five billion, seven hundred ninety-three million, four hundred ninety-four thousand, seven hundred thirty-four dollars and twenty cents.
 ![](Average_Debt_Per_Indicator.jpg)
 
-# Highest Principal repayment 
-The query returned China as the country with the highest principal repayment and the indicator debt name is  Principal repayments on external debt, long-term (AMT, current US$). Which is the same for the average of the debt across indicators. 
+# Highest Principal repayment  
+The query identified China as the country with the highest principal repayment, and the corresponding debt indicator is "Principal repayments on external debt, long-term (AMT, current US$)." This indicator is also consistent with the average calculation across various debt indicators.
 ![](Highest_Principal_Repayment.jpg)
 
    
