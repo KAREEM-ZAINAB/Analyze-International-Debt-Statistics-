@@ -29,12 +29,25 @@ The query result indicates that China has the highest debt, amounting to $285,79
 ![](Country_With_The_highest_Debt.jpg)
 
 # Average amount of debt across indicators
-The query result for the average debt per indicator reveals that Principal repayments on external debt, long-term (AMT, current US$) have the highest average value, amounting to $5,904,868,401.50. Conversely, " PPG, bonds (AMT, current US$) has the lowest average value for an indicator, standing at $1,082,623,947.65.
+The query result for the average debt per indicator reveals that Principal repayments on external debt, long-term (AMT, current US$) have the highest average value, amounting to $5,904,868,401.50. Conversely, PPG, bonds (AMT, current US$) have the lowest average value for an indicator, standing at $1,082,623,947.65.
 ![](Average_Debt_Per_Indicator.jpg)
 
 # Highest Principal repayment  
 The query identified China as the country with the highest principal repayment, and the corresponding debt indicator is "Principal repayments on external debt, long-term (AMT, current US$)." This indicator is also consistent with the average calculation across various debt indicators.
 ![](Highest_Principal_Repayment.jpg)
 
-   
+# Conclusion 
+In examining international debt statistics from The World Bank, several key insights have emerged. The dataset consists of a diverse range of debt indicators, reflecting the complex financial relationships between countries and global institutions.
+
+The analysis began by determining the total number of distinct countries that borrowed from the World Bank, shedding light on the extent of international financial interactions. With 24 unique debt indicator codes identified, it became evident that a variety of financial instruments are employed by the World Bank to facilitate economic development.
+
+Calculating the average debt owed by countries provided an overview, revealing that the collective average debt stands at $3,079,734.49. This figure underscores the substantial financial commitments made by nations to support their economic growth and infrastructure development.
+
+Delving deeper, the identification of China as the country with the highest debt, amounting to  $285,793,494,734.20, highlights the pivotal role of major economies in the global debt landscape. Understanding such high-stakes financial engagements is important for comprehending the economic dynamics of nations.
+
+Analyzing the average debt across different indicators brought attention to the varied nature of financial instruments. Notably, "Principal repayments on external debt, long-term (AMT, current US$)" emerged as the indicator with the highest average value, indicating the significance of this financial component in international transactions.
+
+Moreover, the correlation between China having the highest principal repayment and the corresponding debt indicator aligns with the broader trend observed across various debt indicators.
+
+In essence, this project underscores the complexity and diversity of international debt, emphasizing the role it plays in shaping the economic landscapes of individual nations and the global community as a whole.
    
