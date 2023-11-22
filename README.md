@@ -27,11 +27,11 @@ The query result indicates that the total average debt owed by the world countri
 ![](Total_Debt.jpg)
 
 # Country with the highest debt
-The query result shows China is the country with the highest debt. With a total of 285793494734.2 billion dollars. Two hundred eighty-five billion, seven hundred ninety-three million, four hundred ninety-four thousand, seven hundred thirty-four dollars and twenty cents. 
+The query result indicates that China has the highest debt, amounting to $285,793,494,734.20. In words, this is two hundred eighty-five billion, seven hundred ninety-three million, four hundred ninety-four thousand, seven hundred thirty-four dollars and twenty cents.
 ![](Country_With_The_highest_Debt.jpg)
 
 # Average amount of debt across indicators
-The query result indicates that China has the highest debt, amounting to $285,793,494,734.20. In words, this is two hundred eighty-five billion, seven hundred ninety-three million, four hundred ninety-four thousand, seven hundred thirty-four dollars and twenty cents.
+The query result for the average debt per indicator reveals that "Principal repayments on external debt, long-term (AMT, current US$)" has the highest average value, amounting to $5,904,868,401.50. Conversely, "PPG, bonds (AMT, current US$)" has the lowest average value for an indicator, standing at $1,082,623,947.65.
 ![](Average_Debt_Per_Indicator.jpg)
 
 # Highest Principal repayment  
